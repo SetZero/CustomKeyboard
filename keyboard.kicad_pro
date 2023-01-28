@@ -421,6 +421,10 @@
     [
       "2e76080d-00c4-4f0f-a613-1d146ef507ec",
       "supply"
+    ],
+    [
+      "f594353b-e230-4906-a36a-eccbf7cb4bea",
+      "connectivity"
     ]
   ],
   "text_variables": {}
