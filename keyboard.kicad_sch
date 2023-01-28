@@ -1237,6 +1237,9 @@
   )
 
   (symbol_instances
+    (path "/f594353b-e230-4906-a36a-eccbf7cb4bea/0b30508e-d47d-435e-a6c1-2fcf3bb5b55e"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/f594353b-e230-4906-a36a-eccbf7cb4bea/1cd76bdf-57b6-410e-85df-cab522615b04"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -1305,6 +1308,9 @@
     )
     (path "/2e76080d-00c4-4f0f-a613-1d146ef507ec/f7c38d4e-fd46-4d70-b7ce-5f8c21b4e7af"
       (reference "C?") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/f594353b-e230-4906-a36a-eccbf7cb4bea/27830728-21b4-43d8-b139-3ee05bac58bd"
+      (reference "D?") (unit 1) (value "NUF2042XV6T1G") (footprint "CustomKeyboard:SOTFL50P160X60-6N")
     )
     (path "/fb09480b-5625-4b1d-9ae9-df3c312e2ef4/0177a8b8-eada-4b67-802f-70978801afb5"
       (reference "D_?") (unit 1) (value "D") (footprint "Diode_SMD:D_SOD-123")
